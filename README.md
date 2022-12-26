@@ -42,6 +42,7 @@ https://user-images.githubusercontent.com/48966917/209564370-9767a1e8-d248-443a-
 #### 3.3. Sankey
 HTML: https://sunshineluyao.github.io/ic-gov-visualization/figs/Sankey.html
 <img src="./figs/Sankey.png" alt="drawing" width="800"/>
+
 https://user-images.githubusercontent.com/48966917/209564312-1586dfe4-d633-4272-8b33-40cb7ba53564.mp4
 
 
