@@ -48,8 +48,9 @@ https://user-images.githubusercontent.com/48966917/209565183-7a202e78-80ad-40e2-
 The Heatmap shows the voting count from all voters to all proposers. The prooposers are listed on the y-axis and the voters are listed on the x-axis.The color of each cell demonstrate the count of votes from the voter on the x-coordinate to the proposer on the y-coordinate. When hovering on the heatmap, an info window will show up to display how man times a voter votes for a proposer.
 
 #### 3.2. SplitChord
-HTML: https://sunshineluyao.github.io/ic-gov-visualization/figs/Chord.html
-<img src="./figs/Chord.png" alt="drawing" width="800"/>
+HTML: https://sunshineluyao.github.io/ic-gov-visualization/figs/chord.html
+
+<img src="./figs/chord.png" alt="drawing" width="800"/>
 
 https://user-images.githubusercontent.com/48966917/209564370-9767a1e8-d248-443a-ba03-9c5fd0cdaf6e.mp4
 
