@@ -14,6 +14,8 @@ The Terminus figure shows the voting flow from the top voters to the top propose
 HTML: https://sunshineluyao.github.io/ic-gov-visualization/figs/wordcloud.html
 <img src="./figs/wordcloud.png" alt="drawing" width="800"/>
 
+The Wordcloud shows the keywords statistics in the proposal summary of all proposals on the Network Nervous System (NNS). By hovering the mouse on a keyword, a info window will pop up saying how many time the keyword appeared.
+
 ### 2. The Time Series of Proposal Count by Topics
 HTML (Fraction): https://sunshineluyao.github.io/ic-gov-visualization/figs/area_fraction.html
 <img src="./figs/area_fraction.png" alt="drawing" width="800"/>
