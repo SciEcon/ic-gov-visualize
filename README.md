@@ -24,7 +24,8 @@
 #### 3.3. Sankey
 HTML: https://sunshineluyao.github.io/ic-gov-visualization/figs/Sankey.html
 <img src="./figs/Sankey.png" alt="drawing" width="800"/>
-[<video src="./figs/Sankey.mp4"></video>](https://sunshineluyao.github.io/ic-gov-visualization/figs/Sankey.mp4)
+
+https://sunshineluyao.github.io/ic-gov-visualization/figs/Sankey.mp4
 
 #### 3.4. Terminus
 
