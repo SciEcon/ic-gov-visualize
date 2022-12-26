@@ -1,0 +1,354 @@
+Upgrade ledger canister to git commit 8a560f9510b0df9e747ffaede3b731f2ade9c0b7 Upgrade registry canister to git commit 8a560f9510b0df9e747ffaede3b731f2ade9c0b7 Upgrade governance canister to git commit 8a560f9510b0df9e747ffaede3b731f2ade9c0b7 Upgrade root canister to git commit 8a560f9510b0df9e747ffaede3b731f2ade9c0b7 Upgrade cycles-minting canister to git commit 8a560f9510b0df9e747ffaede3b731f2ade9c0b7 Upgrade lifeline canister to git commit 8a560f9510b0df9e747ffaede3b731f2ade9c0b7 Upgrade genesis-token canister to git commit 8a560f9510b0df9e747ffaede3b731f2ade9c0b7 SetAuthorizedSubnetworks SetAuthorizedSubnetworks SetAuthorizedSubnetworks Add verified_application subnet number 5 (commit 8a560f9510b0df9e747ffaede3b731f2ade9c0b7) Change parameters on application subnet qxesv-zoxpm-vc64m-zxguk-5sj74-35vrb-tbgwg-pcird-5gr26-62oxl-cae Change parameters on application subnet pae4o-o6dxf-xki7q-ezclx-znyd6-fnk6w-vkv5z-5lfwh-xym2i-otrrw-fqe Add verified_application subnet number 6 (commit 8a560f9510b0df9e747ffaede3b731f2ade9c0b7) Upgrade governance canister to git commit 49a621694720b625ee49ad74338a102f7b6fd2de Upgrade internet identity (commit 756bca59bafac49ab368e190f39c5fae0d2ebdb4) NnsCanisterUpgrade NnsCanisterUpgrade NnsCanisterUpgrade NnsCanisterUpgrade NnsCanisterUpgrade NnsCanisterUpgrade SetAuthorizedSubnetworks SetAuthorizedSubnetworks NnsCanisterUpgrade SetAuthorizedSubnetworks SetAuthorizedSubnetworks NnsCanisterUpgrade NnsCanisterUpgrade NnsCanisterUpgrade Upgrade ledger canister to git commit f8fed49076e2208ce23d26d9303b86388557c505 NnsCanisterUpgrade SetAuthorizedSubnetworks NnsCanisterUpgrade The ICP/XDR conversion rate is set to 35.9588. The ICP/XDR conversion rate is set to 33.3195. The ICP/XDR conversion rate is set to 34.3122. The ICP/XDR conversion rate is set to 33.9728. The ICP/XDR conversion rate is set to 34.6557. The ICP/XDR conversion rate is set to 34.0204. The ICP/XDR conversion rate is set to 34.922. The ICP/XDR conversion rate is set to 35.4828. The ICP/XDR conversion rate is set to 35.3496. The ICP/XDR conversion rate is set to 35.602. The ICP/XDR conversion rate is set to 36.1347. The ICP/XDR conversion rate is set to 34.4409. The ICP/XDR conversion rate is set to 34.3753. The ICP/XDR conversion rate is set to 33.8732. The ICP/XDR conversion rate is set to 33.5088. The ICP/XDR conversion rate is set to 33.1233. The ICP/XDR conversion rate is set to 33.2915. The ICP/XDR conversion rate is set to 33.4107. The ICP/XDR conversion rate is set to 33.67. The ICP/XDR conversion rate is set to 33.7471. The ICP/XDR conversion rate is set to 33.3616. The ICP/XDR conversion rate is set to 33.656. The ICP/XDR conversion rate is set to 33.9503. The ICP/XDR conversion rate is set to 33.8382. The ICP/XDR conversion rate is set to 33.2004. The ICP/XDR conversion rate is set to 33.691. The ICP/XDR conversion rate is set to 33.5508. The ICP/XDR conversion rate is set to 33.8802. The ICP/XDR conversion rate is set to 33.7611. The ICP/XDR conversion rate is set to 34.1256. The ICP/XDR conversion rate is set to 34.0555. The ICP/XDR conversion rate is set to 33.4808. The ICP/XDR conversion rate is set to 33.5088. The ICP/XDR conversion rate is set to 33.3055. The ICP/XDR conversion rate is set to 32.114. The ICP/XDR conversion rate is set to 32.107. The ICP/XDR conversion rate is set to 32.1. The ICP/XDR conversion rate is set to 32.1. Proposal to mint 6075.3852 ICP as a node provider reward for qdj4d-76lh3-w2q5i-kwjcd-643pq-pk42d-cziag-4hkau-35gib-m7s33-6qe and transfer the reward to fcb7c8698485401cfc14243e192a23fe4e90a5a72322f0e660979482053feb7f. Proposal to mint 23771.3349 ICP as a node provider reward for 7perj-k7nfx-eradt-r6jvp-x562f-24csp-uhiyd-cdw7y-kph5p-d22kx-sqe and transfer the reward to de05683ae83d986a7040527af1f80d59f381a658f9d16d3fff0461f517210ecc. Proposal to mint 6852.9291 ICP as a node provider reward for a3m2b-4d7jp-6otdo-kx5ql-247kd-d26w5-vgevs-ydyvp-s4q43-tzgdm-lqe and transfer the reward to 96067ad7f9601fc668e04e7f2c0c55c684ee8ee69664e591a7877275252f5492. Proposal to mint 9075.7263 ICP as a node provider reward for s37sh-angse-yybmt-w4f2n-v2db6-3qbou-nwplz-r3qek-aj4jg-qq332-xqe and transfer the reward to 18ad232954d3fd0732fa6fcd0e141fefb9d2e4a2f8334520602c437a8cc0b2a0. Proposal to mint 9075.7263 ICP as a node provider reward for cvflu-o62p3-3mqap-4y32t-6fki5-xiffu-4d35l-soj5u-muhe6-47smn-vae and transfer the reward to 13937d6f1bbef316b7bc5bc6c9d18155753ef0f4a9b10ac2d478309999dfb671. Proposal to mint 1163.7642 ICP as a node provider reward for ao3lq-fy7hn-iqaml-qtzy3-inl3y-2fnlu-56fxu-esosl-62b4q-5wuaq-uae and transfer the reward to daeb12003418a9b90cd6433b255aa8a6f7c83a8d348eb72f72f113936dff01fe. Proposal to mint 1163.7642 ICP as a node provider reward for yuzbi-kesih-4bfq5-j5tg3-b3gwy-c3kzm-a5uxg-r3f7r-n6mma-f5fpl-gae and transfer the reward to de93ce5a802cbaa649a082af0725616e13b103ef6f1294e115d69392b9be6e65. Proposal to mint 23790.1993 ICP as a node provider reward for 7perj-k7nfx-eradt-r6jvp-x562f-24csp-uhiyd-cdw7y-kph5p-d22kx-sqe and transfer the reward to de05683ae83d986a7040527af1f80d59f381a658f9d16d3fff0461f517210ecc. Proposal to mint 6075.3852 ICP as a node provider reward for 7at4h-nhtvt-a4s55-jigss-wr2ha-ysxkn-e6w7x-7ggnm-qd3d5-ry66r-cae and transfer the reward to a4f618becc329988ad0ab234a82b037446a7d884201f1fb46a8a4986093e06f6. The ICP/XDR conversion rate is set to 32.1631. The ICP/XDR conversion rate is set to 32.2963. The ICP/XDR conversion rate is set to 32.2052. The ICP/XDR conversion rate is set to 31.9879. Update parameters of subnet lhg73-sax6z-2zank-6oer2-575lz-zgbxx-ptudx-5korm-fy7we-kh4hl-pqe Update parameters of subnet lspz2-jx4pu-k3e7p-znm7j-q4yum-ork6e-6w4q6-pijwq-znehu-4jabe-kqe The ICP/XDR conversion rate is set to 31.6886. NnsCanisterUpgrade The ICP/XDR conversion rate is set to 31.2239. The ICP/XDR conversion rate is set to 31.5533. The ICP/XDR conversion rate is set to 31.2394. The ICP/XDR conversion rate is set to 30.8174. The ICP/XDR conversion rate is set to 30.4048. The ICP/XDR conversion rate is set to 30.7624. The ICP/XDR conversion rate is set to 30.6221. The ICP/XDR conversion rate is set to 31.19. The ICP/XDR conversion rate is set to 31.0077. The ICP/XDR conversion rate is set to 31.0287. The ICP/XDR conversion rate is set to 31.8423. The ICP/XDR conversion rate is set to 31.5756. The ICP/XDR conversion rate is set to 31.6387. The ICP/XDR conversion rate is set to 31.4844. The ICP/XDR conversion rate is set to 31.0778. The ICP/XDR conversion rate is set to 31.4145. The ICP/XDR conversion rate is set to 31.6316. The ICP/XDR conversion rate is set to 31.5966. The ICP/XDR conversion rate is set to 32.5507. The ICP/XDR conversion rate is set to 32.4238. The ICP/XDR conversion rate is set to 33.0974. The ICP/XDR conversion rate is set to 32.9006. The ICP/XDR conversion rate is set to 32.5781. The ICP/XDR conversion rate is set to 32.7674. The ICP/XDR conversion rate is set to 33.2441. The ICP/XDR conversion rate is set to 32.9782. The ICP/XDR conversion rate is set to 33.3002. The ICP/XDR conversion rate is set to 33.181. Halt subnet qxesv-zoxpm-vc64m-zxguk-5sj74-35vrb-tbgwg-pcird-5gr26-62oxl-cae The ICP/XDR conversion rate is set to 33.5385. The ICP/XDR conversion rate is set to 33.2791. The ICP/XDR conversion rate is set to 33.6584. The ICP/XDR conversion rate is set to 33.7208. NnsCanisterUpgrade The ICP/XDR conversion rate is set to 33.9592. The ICP/XDR conversion rate is set to 34.7654. recover subnet qxesv-zoxpm-vc64m-zxguk-5sj74-35vrb-tbgwg-pcird-5gr26-62oxl-cae The ICP/XDR conversion rate is set to 35.1439. The ICP/XDR conversion rate is set to 35.1941. Unhalt subnet qxesv-zoxpm-vc64m-zxguk-5sj74-35vrb-tbgwg-pcird-5gr26-62oxl-cae The ICP/XDR conversion rate is set to 35.9011. The ICP/XDR conversion rate is set to 35.5505. The ICP/XDR conversion rate is set to 34.506. The ICP/XDR conversion rate is set to 35.1054. The ICP/XDR conversion rate is set to 34.9448. The ICP/XDR conversion rate is set to 34.4078. The ICP/XDR conversion rate is set to 34.527. The ICP/XDR conversion rate is set to 34.3321. The ICP/XDR conversion rate is set to 34.1274. The ICP/XDR conversion rate is set to 33.5161. The ICP/XDR conversion rate is set to 33.4965. The ICP/XDR conversion rate is set to 33.8049. The ICP/XDR conversion rate is set to 34.4218. The ICP/XDR conversion rate is set to 34.1519. The ICP/XDR conversion rate is set to 34.0994. The ICP/XDR conversion rate is set to 34.7373. The ICP/XDR conversion rate is set to 34.7023. The ICP/XDR conversion rate is set to 34.7864. The ICP/XDR conversion rate is set to 35.1495. The ICP/XDR conversion rate is set to 35.5435. The ICP/XDR conversion rate is set to 34.9967. The ICP/XDR conversion rate is set to 34.3938. The ICP/XDR conversion rate is set to 34.3167. The ICP/XDR conversion rate is set to 34.3237. The ICP/XDR conversion rate is set to 34.499. The ICP/XDR conversion rate is set to 34.8705. The ICP/XDR conversion rate is set to 34.2746. The ICP/XDR conversion rate is set to 34.7303. The ICP/XDR conversion rate is set to 34.8775. The ICP/XDR conversion rate is set to 35.3472. The ICP/XDR conversion rate is set to 35.3486. The ICP/XDR conversion rate is set to 35.3122. The ICP/XDR conversion rate is set to 35.2982. The ICP/XDR conversion rate is set to 34.6532. The ICP/XDR conversion rate is set to 34.0853. The ICP/XDR conversion rate is set to 33.84. The ICP/XDR conversion rate is set to 33.4684. The ICP/XDR conversion rate is set to 33.2546. The ICP/XDR conversion rate is set to 33.181. The ICP/XDR conversion rate is set to 33.4614. The ICP/XDR conversion rate is set to 33.1459. The ICP/XDR conversion rate is set to 32.3117. The ICP/XDR conversion rate is set to 32.5921. The ICP/XDR conversion rate is set to 32.4173. The ICP/XDR conversion rate is set to 32.1157. The ICP/XDR conversion rate is set to 32.4243. The ICP/XDR conversion rate is set to 32.7538. The ICP/XDR conversion rate is set to 32.6346. The ICP/XDR conversion rate is set to 32.9993. The ICP/XDR conversion rate is set to 33.0694. The ICP/XDR conversion rate is set to 33.2875. The ICP/XDR conversion rate is set to 32.9362. The ICP/XDR conversion rate is set to 32.7749. The ICP/XDR conversion rate is set to 32.8871. The ICP/XDR conversion rate is set to 33.0063. The ICP/XDR conversion rate is set to 33.2026. The ICP/XDR conversion rate is set to 33.6163. The ICP/XDR conversion rate is set to 34.1072. The ICP/XDR conversion rate is set to 33.6795. The ICP/XDR conversion rate is set to 32.8941. The ICP/XDR conversion rate is set to 32.669. The ICP/XDR conversion rate is set to 31.716. The ICP/XDR conversion rate is set to 31.5337. The ICP/XDR conversion rate is set to 31.5968. The ICP/XDR conversion rate is set to 31.7792. The ICP/XDR conversion rate is set to 31.8703. The ICP/XDR conversion rate is set to 32.0085. The ICP/XDR conversion rate is set to 31.6179. The ICP/XDR conversion rate is set to 31.4566. The ICP/XDR conversion rate is set to 31.7511. The ICP/XDR conversion rate is set to 31.9264. The ICP/XDR conversion rate is set to 32.2139. The ICP/XDR conversion rate is set to 31.9545. The ICP/XDR conversion rate is set to 31.695. The ICP/XDR conversion rate is set to 31.9334. The ICP/XDR conversion rate is set to 31.9685. The ICP/XDR conversion rate is set to 31.6179. The ICP/XDR conversion rate is set to 31.6529. The ICP/XDR conversion rate is set to 31.702. The ICP/XDR conversion rate is set to 31.3164. The ICP/XDR conversion rate is set to 31.5197. The ICP/XDR conversion rate is set to 31.4636. The proposal unlocks all neurons associated with the listed principal IDs of neuron owners that have passed KYC verification. The ICP/XDR conversion rate is set to 31.4762. The ICP/XDR conversion rate is set to 31.2813. The ICP/XDR conversion rate is set to 31.674. The ICP/XDR conversion rate is set to 31.9194. The ICP/XDR conversion rate is set to 31.7231. The ICP/XDR conversion rate is set to 32.5084. The ICP/XDR conversion rate is set to 32.866. The ICP/XDR conversion rate is set to 32.9151. The ICP/XDR conversion rate is set to 32.8415. The ICP/XDR conversion rate is set to 33.0974. The ICP/XDR conversion rate is set to 33.6163. The ICP/XDR conversion rate is set to 32.9292. The ICP/XDR conversion rate is set to 32.6557. The ICP/XDR conversion rate is set to 32.866. The ICP/XDR conversion rate is set to 33.399. The ICP/XDR conversion rate is set to 33.1115. The ICP/XDR conversion rate is set to 33.0624. The ICP/XDR conversion rate is set to 33.1255. The ICP/XDR conversion rate is set to 33.5532. The ICP/XDR conversion rate is set to 33.2587. The ICP/XDR conversion rate is set to 32.8941. The ICP/XDR conversion rate is set to 32.7749. The ICP/XDR conversion rate is set to 32.3401. The ICP/XDR conversion rate is set to 32.648. The ICP/XDR conversion rate is set to 32.0456. The ICP/XDR conversion rate is set to 31.9194. The ICP/XDR conversion rate is set to 31.8633. The ICP/XDR conversion rate is set to 32.0737. The ICP/XDR conversion rate is set to 32.0737. The ICP/XDR conversion rate is set to 32.7609. The ICP/XDR conversion rate is set to 32.5014. The ICP/XDR conversion rate is set to 33.0554. The ICP/XDR conversion rate is set to 32.9196. The ICP/XDR conversion rate is set to 32.9855. The ICP/XDR conversion rate is set to 32.8214. The ICP/XDR conversion rate is set to 32.0995. The ICP/XDR conversion rate is set to 32.3972. The ICP/XDR conversion rate is set to 32.2745. The ICP/XDR conversion rate is set to 32.4849. The ICP/XDR conversion rate is set to 32.0291. The ICP/XDR conversion rate is set to 31.931. The ICP/XDR conversion rate is set to 32.2886. The ICP/XDR conversion rate is set to 32.2395. The ICP/XDR conversion rate is set to 32.0502. The ICP/XDR conversion rate is set to 32.4358. The ICP/XDR conversion rate is set to 32.6121. The ICP/XDR conversion rate is set to 32.6181. The ICP/XDR conversion rate is set to 32.8916. The ICP/XDR conversion rate is set to 33.0318. The ICP/XDR conversion rate is set to 32.9827. The ICP/XDR conversion rate is set to 32.8789. The ICP/XDR conversion rate is set to 33.3333. The ICP/XDR conversion rate is set to 32.5901. The ICP/XDR conversion rate is set to 32.5199. The ICP/XDR conversion rate is set to 32.2535. The ICP/XDR conversion rate is set to 32.0925. The ICP/XDR conversion rate is set to 31.8328. The ICP/XDR conversion rate is set to 31.6505. The ICP/XDR conversion rate is set to 31.8749. The ICP/XDR conversion rate is set to 32.3166. The ICP/XDR conversion rate is set to 32.3383. The ICP/XDR conversion rate is set to 32.2325. The ICP/XDR conversion rate is set to 32.1974. The ICP/XDR conversion rate is set to 32.1694. The ICP/XDR conversion rate is set to 31.9169. The ICP/XDR conversion rate is set to 31.7415. The ICP/XDR conversion rate is set to 31.6645. The ICP/XDR conversion rate is set to 31.973. The ICP/XDR conversion rate is set to 32.2114. The ICP/XDR conversion rate is set to 32.0922. The ICP/XDR conversion rate is set to 32.254. The ICP/XDR conversion rate is set to 32.1133. The ICP/XDR conversion rate is set to 32.2886. The ICP/XDR conversion rate is set to 32.0992. The ICP/XDR conversion rate is set to 32.2255. The ICP/XDR conversion rate is set to 32.3363. The ICP/XDR conversion rate is set to 32.4148. The ICP/XDR conversion rate is set to 31.945. The ICP/XDR conversion rate is set to 31.8468. The ICP/XDR conversion rate is set to 32.0992. The ICP/XDR conversion rate is set to 32.1318. The ICP/XDR conversion rate is set to 32.1764. The ICP/XDR conversion rate is set to 32.1168. The ICP/XDR conversion rate is set to 32.7815. The ICP/XDR conversion rate is set to 33.0598. The ICP/XDR conversion rate is set to 33.1087. The ICP/XDR conversion rate is set to 32.7303. The ICP/XDR conversion rate is set to 32.6321. The ICP/XDR conversion rate is set to 32.7653. The ICP/XDR conversion rate is set to 32.7373. The ICP/XDR conversion rate is set to 32.3216. The ICP/XDR conversion rate is set to 32.1203. The ICP/XDR conversion rate is set to 32.0382. The ICP/XDR conversion rate is set to 31.973. The ICP/XDR conversion rate is set to 31.7627. The ICP/XDR conversion rate is set to 31.7706. The ICP/XDR conversion rate is set to 31.3069. The ICP/XDR conversion rate is set to 31.2719. The ICP/XDR conversion rate is set to 31.2018. The ICP/XDR conversion rate is set to 31.1877. The ICP/XDR conversion rate is set to 31.2884. The ICP/XDR conversion rate is set to 31.0615. The ICP/XDR conversion rate is set to 30.5356. The ICP/XDR conversion rate is set to 30.0659. The ICP/XDR conversion rate is set to 30.15. The ICP/XDR conversion rate is set to 30.2132. The ICP/XDR conversion rate is set to 30.122. The ICP/XDR conversion rate is set to 30.4515. The ICP/XDR conversion rate is set to 30.6829. The ICP/XDR conversion rate is set to 30.2902. The ICP/XDR conversion rate is set to 30.4866. The ICP/XDR conversion rate is set to 30.5917. The ICP/XDR conversion rate is set to 30.5847. The ICP/XDR conversion rate is set to 30.732. The ICP/XDR conversion rate is set to 30.7039. The ICP/XDR conversion rate is set to 30.5006. The ICP/XDR conversion rate is set to 29.8766. The ICP/XDR conversion rate is set to 29.8766. The ICP/XDR conversion rate is set to 29.9817. The ICP/XDR conversion rate is set to 30.0729. The ICP/XDR conversion rate is set to 29.5049. The ICP/XDR conversion rate is set to 29.6031. The ICP/XDR conversion rate is set to 29.3928. The ICP/XDR conversion rate is set to 29.4488. The ICP/XDR conversion rate is set to 29.5821. The ICP/XDR conversion rate is set to 29.8345. The ICP/XDR conversion rate is set to 30.0168. The ICP/XDR conversion rate is set to 29.9467. The ICP/XDR conversion rate is set to 29.9326. The ICP/XDR conversion rate is set to 30.2061. The ICP/XDR conversion rate is set to 30.2776. The ICP/XDR conversion rate is set to 30.164. The ICP/XDR conversion rate is set to 30.6128. The ICP/XDR conversion rate is set to 30.3113. The ICP/XDR conversion rate is set to 29.9467. The ICP/XDR conversion rate is set to 30.1781. The ICP/XDR conversion rate is set to 30.0729. The ICP/XDR conversion rate is set to 29.8436. The ICP/XDR conversion rate is set to 29.4488. The ICP/XDR conversion rate is set to 29.3928. The ICP/XDR conversion rate is set to 29.6382. The ICP/XDR conversion rate is set to 29.6585. The ICP/XDR conversion rate is set to 29.5821. The ICP/XDR conversion rate is set to 29.6101. The ICP/XDR conversion rate is set to 29.2848. The ICP/XDR conversion rate is set to 29.6213. The ICP/XDR conversion rate is set to 29.4138. The ICP/XDR conversion rate is set to 29.547. The ICP/XDR conversion rate is set to 29.533. The ICP/XDR conversion rate is set to 29.6522. The ICP/XDR conversion rate is set to 29.6732. The ICP/XDR conversion rate is set to 29.6452. The ICP/XDR conversion rate is set to 29.3086. The ICP/XDR conversion rate is set to 29.6241. The ICP/XDR conversion rate is set to 29.4488. The ICP/XDR conversion rate is set to 29.512. The ICP/XDR conversion rate is set to 29.4629. The ICP/XDR conversion rate is set to 29.2034. The ICP/XDR conversion rate is set to 29.5049. The ICP/XDR conversion rate is set to 29.7503. The ICP/XDR conversion rate is set to 29.7994. The ICP/XDR conversion rate is set to 29.7433. The ICP/XDR conversion rate is set to 29.9677. The ICP/XDR conversion rate is set to 30.0028. The ICP/XDR conversion rate is set to 29.9116. The ICP/XDR conversion rate is set to 30.115. The ICP/XDR conversion rate is set to 30.2692. The ICP/XDR conversion rate is set to 30.0378. The ICP/XDR conversion rate is set to 29.9607. The ICP/XDR conversion rate is set to 30.2341. The ICP/XDR conversion rate is set to 30.5356. The ICP/XDR conversion rate is set to 30.4655. The ICP/XDR conversion rate is set to 30.4936. The ICP/XDR conversion rate is set to 30.4024. The ICP/XDR conversion rate is set to 30.0659. The ICP/XDR conversion rate is set to 30.0448. The ICP/XDR conversion rate is set to 30.1805. The ICP/XDR conversion rate is set to 30.4165. The ICP/XDR conversion rate is set to 30.3978. The ICP/XDR conversion rate is set to 30.1805. The ICP/XDR conversion rate is set to 30.2155. The ICP/XDR conversion rate is set to 30.1594. The ICP/XDR conversion rate is set to 30.0332. The ICP/XDR conversion rate is set to 30.0613. The ICP/XDR conversion rate is set to 30.1174. The ICP/XDR conversion rate is set to 29.9141. The ICP/XDR conversion rate is set to 29.5986. The ICP/XDR conversion rate is set to 29.6182. The ICP/XDR conversion rate is set to 29.6547. The ICP/XDR conversion rate is set to 29.5145. The ICP/XDR conversion rate is set to 29.4934. The ICP/XDR conversion rate is set to 29.4128. The ICP/XDR conversion rate is set to 29.4689. The ICP/XDR conversion rate is set to 29.5004. The ICP/XDR conversion rate is set to 29.6301. The ICP/XDR conversion rate is set to 29.865. The ICP/XDR conversion rate is set to 29.5916. The ICP/XDR conversion rate is set to 29.5004. The ICP/XDR conversion rate is set to 29.4373. The ICP/XDR conversion rate is set to 29.4093. The ICP/XDR conversion rate is set to 29.4864. The ICP/XDR conversion rate is set to 29.4724. The ICP/XDR conversion rate is set to 29.6196. The ICP/XDR conversion rate is set to 29.4864. The ICP/XDR conversion rate is set to 29.3462. The ICP/XDR conversion rate is set to 29.4373. The ICP/XDR conversion rate is set to 29.3742. The ICP/XDR conversion rate is set to 29.3883. The ICP/XDR conversion rate is set to 29.3672. The ICP/XDR conversion rate is set to 29.5705. The ICP/XDR conversion rate is set to 29.8089. The ICP/XDR conversion rate is set to 29.9631. The ICP/XDR conversion rate is set to 30.0192. The ICP/XDR conversion rate is set to 30.0753. The ICP/XDR conversion rate is set to 30.0122. The ICP/XDR conversion rate is set to 29.8299. The ICP/XDR conversion rate is set to 29.9701. The ICP/XDR conversion rate is set to 30.1805. The ICP/XDR conversion rate is set to 30.3417. The ICP/XDR conversion rate is set to 30.4328. The ICP/XDR conversion rate is set to 30.6361. The ICP/XDR conversion rate is set to 30.9867. The ICP/XDR conversion rate is set to 30.8885. The ICP/XDR conversion rate is set to 30.7974. The ICP/XDR conversion rate is set to 30.6291. The ICP/XDR conversion rate is set to 30.7203. The ICP/XDR conversion rate is set to 30.7483. The ICP/XDR conversion rate is set to 30.4167. The ICP/XDR conversion rate is set to 30.2225. The ICP/XDR conversion rate is set to 30.2506. The ICP/XDR conversion rate is set to 30.0823. The ICP/XDR conversion rate is set to 30.1384. The ICP/XDR conversion rate is set to 30.0031. The ICP/XDR conversion rate is set to 30.3067. The ICP/XDR conversion rate is set to 30.4258. The ICP/XDR conversion rate is set to 30.4048. The ICP/XDR conversion rate is set to 30.6361. The ICP/XDR conversion rate is set to 30.7483. The ICP/XDR conversion rate is set to 30.6011. The ICP/XDR conversion rate is set to 30.552. The ICP/XDR conversion rate is set to 31.1129. The ICP/XDR conversion rate is set to 31.2461. The ICP/XDR conversion rate is set to 31.232. The ICP/XDR conversion rate is set to 31.0287. The ICP/XDR conversion rate is set to 31.0918. The ICP/XDR conversion rate is set to 30.9166. The ICP/XDR conversion rate is set to 31.0498. The ICP/XDR conversion rate is set to 31.232. The ICP/XDR conversion rate is set to 31.319. The ICP/XDR conversion rate is set to 31.0694. The ICP/XDR conversion rate is set to 31.4844. The ICP/XDR conversion rate is set to 31.5756. The ICP/XDR conversion rate is set to 31.7859. The ICP/XDR conversion rate is set to 31.5475. The ICP/XDR conversion rate is set to 31.8279. The ICP/XDR conversion rate is set to 31.7789. The ICP/XDR conversion rate is set to 31.7789. The ICP/XDR conversion rate is set to 31.7638. The ICP/XDR conversion rate is set to 31.4073. The ICP/XDR conversion rate is set to 31.4424. The ICP/XDR conversion rate is set to 31.6008. The ICP/XDR conversion rate is set to 31.6527. The ICP/XDR conversion rate is set to 31.4479. The ICP/XDR conversion rate is set to 31.5615. The ICP/XDR conversion rate is set to 31.6176. The ICP/XDR conversion rate is set to 31.5489. The ICP/XDR conversion rate is set to 31.5475. The ICP/XDR conversion rate is set to 31.841. The ICP/XDR conversion rate is set to 31.5966. The ICP/XDR conversion rate is set to 31.6106. The ICP/XDR conversion rate is set to 31.5896. The ICP/XDR conversion rate is set to 31.856. The ICP/XDR conversion rate is set to 32.2285. The ICP/XDR conversion rate is set to 32.2416. The ICP/XDR conversion rate is set to 32.5823. The ICP/XDR conversion rate is set to 32.4379. The ICP/XDR conversion rate is set to 32.6552. The ICP/XDR conversion rate is set to 32.571. The ICP/XDR conversion rate is set to 32.7919. The ICP/XDR conversion rate is set to 33.0422. The ICP/XDR conversion rate is set to 33.0828. The ICP/XDR conversion rate is set to 33.1249. The ICP/XDR conversion rate is set to 32.9009. The ICP/XDR conversion rate is set to 32.8865. The ICP/XDR conversion rate is set to 32.9076. The ICP/XDR conversion rate is set to 33.1389. The ICP/XDR conversion rate is set to 33.0611. The ICP/XDR conversion rate is set to 32.9501. The ICP/XDR conversion rate is set to 32.7463. The ICP/XDR conversion rate is set to 32.8795. The ICP/XDR conversion rate is set to 32.8305. The ICP/XDR conversion rate is set to 32.7393. The ICP/XDR conversion rate is set to 32.7744. The ICP/XDR conversion rate is set to 32.4098. The ICP/XDR conversion rate is set to 32.1644. The ICP/XDR conversion rate is set to 32.1574. The ICP/XDR conversion rate is set to 31.9401. The ICP/XDR conversion rate is set to 32.2766. The ICP/XDR conversion rate is set to 32.4168. The ICP/XDR conversion rate is set to 32.4098. The ICP/XDR conversion rate is set to 32.3327. The ICP/XDR conversion rate is set to 32.3257. The ICP/XDR conversion rate is set to 32.1855. The ICP/XDR conversion rate is set to 32.0102. The ICP/XDR conversion rate is set to 32.1154. The ICP/XDR conversion rate is set to 32.0032. The ICP/XDR conversion rate is set to 32.1504. The ICP/XDR conversion rate is set to 32.515. The ICP/XDR conversion rate is set to 32.4659. The ICP/XDR conversion rate is set to 32.4098. The ICP/XDR conversion rate is set to 32.8445. The ICP/XDR conversion rate is set to 32.7197. The ICP/XDR conversion rate is set to 32.6552. The ICP/XDR conversion rate is set to 32.7961. The ICP/XDR conversion rate is set to 32.7169. The ICP/XDR conversion rate is set to 32.7043. The ICP/XDR conversion rate is set to 32.8024. The ICP/XDR conversion rate is set to 33.0267. The ICP/XDR conversion rate is set to 33.0618. The ICP/XDR conversion rate is set to 32.8445. The ICP/XDR conversion rate is set to 32.6412. The ICP/XDR conversion rate is set to 32.8725. The ICP/XDR conversion rate is set to 32.6622. The ICP/XDR conversion rate is set to 32.3678. The ICP/XDR conversion rate is set to 32.3397. The ICP/XDR conversion rate is set to 32.4659. The ICP/XDR conversion rate is set to 32.522. The ICP/XDR conversion rate is set to 32.6622. The ICP/XDR conversion rate is set to 32.5711. The ICP/XDR conversion rate is set to 32.8795. The ICP/XDR conversion rate is set to 32.8515. The ICP/XDR conversion rate is set to 32.9216. The ICP/XDR conversion rate is set to 33.0947. The ICP/XDR conversion rate is set to 33.1599. The ICP/XDR conversion rate is set to 33.2581. The ICP/XDR conversion rate is set to 33.0352. The ICP/XDR conversion rate is set to 33.0969. The ICP/XDR conversion rate is set to 33.266.             # Replace a node in subnet w4rem.
+
+- Step 1 (proposal [81623](https://dashboard.internetcomputer.org/proposal/81623)): Add nodes [t3ddg-me5el-nt2c4-4p2a2-7qyyy-v5rpy-yosa3-k3z5g-ehe2c-7vq3g-4ae]
+- Step 2 (this proposal): Remove nodes [6gitt-iw3yg-xqld3-bsue5-ett4q-vk2z4-ppjk5-3w4nw-tavjg-tjkmj-xae]
+
+
+Motivation: Finalize the replacements started with proposal [81623](https://dashboard.internetcomputer.org/proposal/81623) # Replace nodes in subnet pae4o.
+
+- Step 1 (proposal [81621](https://dashboard.internetcomputer.org/proposal/81621)): Add nodes [djil5-54fkt-55svu-26a7h-ttflx-dqn6u-3w3j6-zyuwg-cfwuo-7oi46-uae, psfos-cul7d-luvsj-7er7k-oahxc-qx2qx-etnev-glh4c-5bybz-ivnlh-kqe]
+- Step 2 (this proposal): Remove nodes [wn6mg-vgo3q-kj44j-7d7yw-warp2-zgouk-adqt3-tacbm-enms7-ahtmx-zqe, webba-gvpo4-3re2m-5gn7n-diu3p-euk7i-bwp2y-jee5z-yv2k4-za7az-aae]
+
+
+Motivation: Finalize the replacements started with proposal [81621](https://dashboard.internetcomputer.org/proposal/81621) # Replace nodes in subnet 4zbus.
+
+- Step 1 (proposal [81622](https://dashboard.internetcomputer.org/proposal/81622)): Add nodes [nxayg-zna42-zpngn-tg6hw-heplm-xvfsb-bxyov-3qiix-aaavl-5pdev-uqe, a3biv-gee7t-qsjnz-4hsb5-zmvds-l3tjb-bubn5-gevin-2ehtn-thooo-hqe]
+- Step 2 (this proposal): Remove nodes [yf4j4-bhsvc-ihhk2-2gv7q-ts2qg-4bst2-dbd5m-ogfw4-enb4g-ovetp-fae, luszc-6ph6i-eo33y-scvcc-jxoir-cl3qr-sksw6-6dazv-pprkw-udtrl-zae]
+
+
+Motivation: Finalize the replacements started with proposal [81622](https://dashboard.internetcomputer.org/proposal/81622) # Replace a node in subnet jtdsg.
+
+- Step 1 (proposal [81617](https://dashboard.internetcomputer.org/proposal/81617)): Add nodes [i5kts-s424n-xg4np-i2wnx-lbb24-d7imi-veczd-l5dwq-4bvi6-ltdpg-7qe]
+- Step 2 (this proposal): Remove nodes [nflkw-lo5to-wx67m-zmqhm-mnsfn-zqinu-3xl7h-jhrua-xfc35-d56y4-iae]
+
+
+Motivation: Finalize the replacements started with proposal [81617](https://dashboard.internetcomputer.org/proposal/81617) # Replace a node in subnet lhg73.
+
+- Step 1 (proposal [81616](https://dashboard.internetcomputer.org/proposal/81616)): Add nodes [dhnjd-aemdm-qq2fc-lacqo-fwerg-tc3g6-xsbkg-pbwgf-y2rez-mh5ef-jqe]
+- Step 2 (this proposal): Remove nodes [pj6ma-qvezw-srdkt-dzgcq-onckx-2reeb-epjrd-o6qzx-4ecfv-gjxij-dae]
+
+
+Motivation: Finalize the replacements started with proposal [81616](https://dashboard.internetcomputer.org/proposal/81616) # Replace a node in subnet eq6en.
+
+- Step 1 (proposal [81597](https://dashboard.internetcomputer.org/proposal/81597)): Add nodes [y7uxu-kv3fw-7fbct-yo4dg-5ldiw-htywq-oxs44-6rhvj-ehgbd-2ssun-3ae]
+- Step 2 (this proposal): Remove nodes [hc2x3-hxujk-qqced-gztfq-cr6x7-67caz-ytc7d-tf74r-6qtln-xe4yb-3qe]
+
+
+Motivation: Finalize the replacements started with proposal [81597](https://dashboard.internetcomputer.org/proposal/81597)                                                               # Replace a node in subnet nl6hn.
+
+- Step 1 (proposal [81608](https://dashboard.internetcomputer.org/proposal/81608)): Add nodes [k7ffp-zum3t-rtcce-kuexb-xloxn-dfp4x-b5i2j-jrh6n-jitao-xm2o6-nae]
+- Step 2 (this proposal): Remove nodes [3l2cg-gewhq-ytksl-kqrj5-65263-zvrer-o5akm-zx5o3-zcgzv-mykzq-bqe]
+
+
+Motivation: Finalize the replacements started with proposal [81608](https://dashboard.internetcomputer.org/proposal/81608)  # Replace a node in subnet 5kdm2.
+
+- Step 1 (proposal [81611](https://dashboard.internetcomputer.org/proposal/81611)): Add nodes [67vcv-cug5h-r2smj-pwzyo-6ioi5-dvm4h-er3oy-zpuig-met4d-kgtbd-5qe]
+- Step 2 (this proposal): Remove nodes [mntgx-pz7b3-jhycf-txj4i-4jxsd-ptoql-uj4ce-mz7ax-asqex-isyz2-lqe]
+
+
+Motivation: Finalize the replacements started with proposal [81611](https://dashboard.internetcomputer.org/proposal/81611) # Replace nodes in subnet x33ed.
+
+- Step 1 (proposal [81601](https://dashboard.internetcomputer.org/proposal/81601)): Add nodes [a3f3e-t5m3h-v76pl-vlrur-eb3xn-gwmoc-5kto4-xtlyy-3uiw2-ljfpm-xqe, hhixb-o5xrj-s5pty-esitz-m6s46-wgsez-c7thd-6h27w-7hikq-ae5n7-pae, yikms-ku6l6-3brmt-a7wji-oizgc-gopwj-my4wn-y2nsq-mjq6q-acuaw-7ae, q6bis-oxwxg-eh76l-5i47b-nmcm7-wibd3-q5alp-j6hxy-puzh2-qgequ-bae, nioyi-lxtpk-fnexd-5ib4d-3x523-uu4ve-ro2tv-z5yuq-sf3dk-fdhrf-4qe]
+- Step 2 (this proposal): Remove nodes [fy4fc-dhgao-c4ara-2b5be-fpcvc-44nm7-hnuaq-znr4i-foh7d-czzrp-5ae, w6s6u-yyg6u-5aefv-klveq-togwl-q3p7m-etynr-qynqc-miawa-ao22p-mqe, j5dz5-mvfwg-5hyqp-sl77m-zpard-hgggj-7eg6w-7usft-mv3mo-n7peo-pae, gsrhr-kwp6h-y6ibc-yftud-fzi66-vg5df-subl3-wiren-uzza6-rb5fc-dae, lnaik-cwzg7-5f7ve-jr7ll-2mo6o-nf7p4-i2khd-lp2mj-fcf4v-jmvnk-pae]
+
+
+Motivation: Finalize the replacements started with proposal [81601](https://dashboard.internetcomputer.org/proposal/81601) # Replace a node in subnet fuqsr.
+
+- Step 1 (proposal [81605](https://dashboard.internetcomputer.org/proposal/81605)): Add nodes [jamsd-hvypj-w56fb-4cwvt-tqbmo-6652c-eaw2u-3njxg-5nfe7-ae6ht-bae]
+- Step 2 (this proposal): Remove nodes [6r4ku-jnjdv-uown7-mn4hb-ietcj-ul75b-syb7l-jebe7-uvwtl-gn4jx-mae]
+
+
+Motivation: Finalize the replacements started with proposal [81605](https://dashboard.internetcomputer.org/proposal/81605) # Replace a node in subnet uzr34.
+
+- Step 1 (proposal [81612](https://dashboard.internetcomputer.org/proposal/81612)): Add nodes [virsp-x5qhw-afssl-xvqbf-k6v2t-m4iny-62xma-edhhu-m4pag-2jmhr-5ae]
+- Step 2 (this proposal): Remove nodes [ydslj-rlf32-vj4lb-lrcgz-cws3q-l7h74-alxv4-rh7et-64ms3-xaour-uqe]
+
+
+Motivation: Finalize the replacements started with proposal [81612](https://dashboard.internetcomputer.org/proposal/81612) # Replace a node in subnet snjp4.
+
+- Step 1 (proposal [81628](https://dashboard.internetcomputer.org/proposal/81628)): Add nodes [4uvtj-n4rgx-m6qqi-nx3ch-zuqyy-gxjdv-6bxbf-ha5ul-pxdma-k7zmr-iae]
+- Step 2 (this proposal): Remove nodes [r7gj6-ygehu-ftl65-43zzu-q6637-h4lc2-3zg4y-tngr6-dzg3n-ksr5x-wqe]
+
+
+Motivation: Finalize the replacements started with proposal [81628](https://dashboard.internetcomputer.org/proposal/81628)    # Replace a node in subnet csyj4.
+
+- Step 1 (proposal [81615](https://dashboard.internetcomputer.org/proposal/81615)): Add nodes [g2jlm-xvj2n-x7gzj-66e5m-h6gwn-4pgy6-otp4b-5ssj5-ozl4h-bitxk-4qe]
+- Step 2 (this proposal): Remove nodes [r2cll-2ne3n-xkv7y-pa6lg-uwl3w-4hzik-rkv6y-us2ap-kvwjx-veixr-7qe]
+
+
+Motivation: Finalize the replacements started with proposal [81615](https://dashboard.internetcomputer.org/proposal/81615)     # Replace a node in subnet cv73p.
+
+- Step 1 (proposal [81609](https://dashboard.internetcomputer.org/proposal/81609)): Add nodes [njsmq-lvuj4-fo325-pt3od-f5zqr-j64dp-u5l6n-kdffj-3gvvr-3rbfa-wqe]
+- Step 2 (this proposal): Remove nodes [2ub67-fqpex-w6x7n-m5f7e-c73ma-esl6j-mbeb2-eil3a-waswj-oiddt-fqe]
+
+
+Motivation: Finalize the replacements started with proposal [81609](https://dashboard.internetcomputer.org/proposal/81609) # Replace a node in subnet yinp6.
+
+- Step 1 (proposal [81606](https://dashboard.internetcomputer.org/proposal/81606)): Add nodes [jli6s-b6v2e-jzqor-h2h3y-eaj4i-eyffb-db4dn-gp7qw-ih6jc-yzb5j-hqe]
+- Step 2 (this proposal): Remove nodes [rmodl-3w7fg-66wug-kmigc-hwvg2-gmyyb-zglpv-m5vql-6t3iw-5qkx5-rqe]
+
+
+Motivation: Finalize the replacements started with proposal [81606](https://dashboard.internetcomputer.org/proposal/81606) # Replace a node in subnet e66qm.
+
+- Step 1 (proposal [81604](https://dashboard.internetcomputer.org/proposal/81604)): Add nodes [6ssdj-55z6j-7q72p-vn255-utr5r-r2lgq-iitti-wnchn-rpwos-hjgrt-lqe]
+- Step 2 (this proposal): Remove nodes [mvwcl-mamq7-rinul-kqy2x-4jrhu-5aggi-zjjxz-efcgo-u6mda-nytzw-uae]
+
+
+Motivation: Finalize the replacements started with proposal [81604](https://dashboard.internetcomputer.org/proposal/81604) # Replace a node in subnet 6pbhf.
+
+- Step 1 (proposal [81603](https://dashboard.internetcomputer.org/proposal/81603)): Add nodes [efdju-ef2ce-a5jdn-obybl-x6ema-h5lwv-nc2sy-v4hvc-7nltm-aldtv-6ae]
+- Step 2 (this proposal): Remove nodes [lgpoe-kyrtu-ksjxp-2svql-2dgsd-xwitl-z2dri-z7q4x-qi6kn-c7gr5-yqe]
+
+
+Motivation: Finalize the replacements started with proposal [81603](https://dashboard.internetcomputer.org/proposal/81603) # Replace a node in subnet mpubz.
+
+- Step 1 (proposal [81599](https://dashboard.internetcomputer.org/proposal/81599)): Add nodes [lovrr-efema-wp7pq-cfp2q-clwvx-c4vvp-7zb76-ixxoi-7jtke-joyqp-aae]
+- Step 2 (this proposal): Remove nodes [36mz5-kkuj7-wddxm-df6gw-iezwz-nkuxk-lzlkt-bvigr-xpuxl-n7fez-bae]
+
+
+Motivation: Finalize the replacements started with proposal [81599](https://dashboard.internetcomputer.org/proposal/81599) # Replace a node in subnet gmq5v.
+
+- Step 1 (proposal [81598](https://dashboard.internetcomputer.org/proposal/81598)): Add nodes [saw4q-px4st-tqivd-luwao-njxl5-hjiuy-7j365-mvphm-a5g5x-zkooy-kae]
+- Step 2 (this proposal): Remove nodes [4kv7b-ieoae-v2wna-3rsf7-azqn4-svuk6-iw7qx-b3wqb-vsdix-azfzp-aae]
+
+
+Motivation: Finalize the replacements started with proposal [81598](https://dashboard.internetcomputer.org/proposal/81598)   # Replace a node in subnet 3hhby.
+
+- Step 1 (proposal [81610](https://dashboard.internetcomputer.org/proposal/81610)): Add nodes [it3jb-gmmvk-za75m-2aenf-zwzz5-6brnd-rkibn-b5w3f-nkjc5-ijcts-uae]
+- Step 2 (this proposal): Remove nodes [5jpnm-grple-2o7ci-icnoc-iy2fe-zonzg-3vink-aldbp-s2nys-wtptf-uae]
+
+
+Motivation: Finalize the replacements started with proposal [81610](https://dashboard.internetcomputer.org/proposal/81610)  Elect new replica binary revision [6de9963fdc752394475149a9659d42f01ab8b0d3](https://github.com/dfinity/ic/tree/6de9963fdc752394475149a9659d42f01ab8b0d3)
+
+# Release Notes:
+* Use same XNetPayload size estimate everywhere
+    # Upgrade frontend NNS Dapp canister to commit `82ff5b73cc08bc6ffe08917ab5193cf7b6dffe46`
+Wasm sha256 hash: `da8df954ba134579dfc1f377c32353e99d22c3877fbc07723f493e49ef6f24dc` (`https://github.com/dfinity/nns-dapp/pull/1353/checks`)
+
+## Change Log:
+
+* New Proposal Page.
+* New Proposal Card in the Proposals list page.
+* New transaction flow.
+* Navigation between proposals.
+
+## Commit log:
+
+```
++ bash -xc "git log --format='%C(auto) %h %s' a80a6e090..82ff5b73c"
+ 82ff5b73c fix: display no proposals found (#1353)
+ 9c62031f8 Chore: Set feature flags release (#1355)
+ ee23992e5 fix: modal back button on canister (#1354)
+ bf15d37ea L2-993: User can see SNS main balance account (#1345)
+ 21721cef5 Get rid of REDIRECT_TO_LEGACY (#1241)
+ c28777add Kill earlier runs (#1342)
+ 0e7c3566f i18n: update description (#1350)
+ 1326bf2c4 style: fix header title overflow (#1348)
+ fbdfc9b47 L2-1023: Transaction UI improvements (#1346)
+ 43be4d017 feat: add new payload type AddSnsWasm:31 (#1344)
+ a651e369f Proposal payload add wasm request (#1215)
+ 3f7f28222 feat: new "alert" modals (#1326)
+ 714a3ac31 L2-1002: Clean Pending Transactions state (#1335)
+ 1b28f0be5 L2-992: Project dropdown for accounts (#1331)
+ 37977ad7c L2-841: New transaction flow (#1320)
+ 5f23e199b feat: csp script-src fallback for older devices (#1339)
+ 33e2723b6 L2-1020: Decode pending_transactions (#1332)
+ 29d487637 style: fix legacy modal spacing (#1338)
+ d7cd0e51f style: fix modal meta overflow (#1337)
+ 31a8a6d50 update cargo version to 1.62.1 (#1218)
+ 9fdc0e9d3 Give each workflow a 'passes' job (#1334)
+ da28dc9ea Bump rust version (#1325)
+ f155a413b style: review & refresh of UI look & feel (#1333)
+ 1d0391fbb Release: 2022-09-14 (#1328)
+ 086f370ea style: fix popover z-index (#1329)
+ 8f7272208 L2-999: Setup context in path to switch SNS projects (#1305)
+ b541884c6 style: fix legacy footer, legacy modal footer and new bottom sheet safe area bottom for ios (#1327)
+ df88a46f6 style: minor adjustments for proposal new design (#1324)
+ 8842bb6a1 feat: import icons from gix-components (#1321)
+ 50176f105 Extend voting message (#1315)
+ 7a54c7814 feat: don't display neurons collapsible if no neurons (#1323)
+ cf8659594 feat: new previous and next navigation for proposals (#1322)
+ 8afc4600f feat: extract toasts spinner to gix-components (#1318)
+ 45ac0c3e5 feat: integrate "my votes" in collapsible section of proposal detail new design (#1317)
+ e886cd8f8 feat: proposal deadline countdown (#1308)
+```
+
+## Wasm Verification
+
+To build the wasm module yourself and verify its hash, run the following commands from the root of the nns-dapp repo:
+
+```
+git fetch  # to ensure you have the latest changes.
+git checkout `82ff5b73cc08bc6ffe08917ab5193cf7b6dffe46`
+./scripts/docker-build
+sha256sum nns-dapp.wasm
+```
+      # Replace a node in subnet eq6en.
+
+- Step 1 (this proposal): Add nodes [2lhun-vmepu-zc7ic-6lrjj-o4yda-nlmwn-m4i2i-h4oby-hwv4y-mpv7c-fae]
+- Step 2 (upcoming proposal): Remove nodes [y7uxu-kv3fw-7fbct-yo4dg-5ldiw-htywq-oxs44-6rhvj-ehgbd-2ssun-3ae]
+
+
+Motivation: Replace 1 underperforming node  Update subnet io67a-2jmkw-zup3h-snbwi-g6a5n-rm5dn-b6png-lvdpl-nqnto-yih6l-gqe to replica version 6de9963fdc752394475149a9659d42f01ab8b0d3
+                                                                           Hello, my name is John Wiegley, and I’d like to request your vote on this known neuron proposal. The proposal I had submitted two weeks ago was only a motion proposal, which passed, so now I am submitting the correct proposal for inclusion in the NNS known neuron list.
+
+Neuron ID: 12911334408382674412
+
+# About Me
+
+For a long while I’ve been a contributor to various open source projects and communities, including Emacs, Haskell, Ledger, C++, Common Lisp, Rust and Coq. You could say I’m a technology enthusiast, always looking to learn about new ideas and how they connect to real systems.
+
+I worked at DFINITY from 2018-2022, exiting as Principal Engineer after nearly 4 years. While there, I worked on the execution engine, integration testing, devops infrastructure, transitioning from Haskell to Rust, the NNS, tokenomics, and various other aspects of the system. I knew the full stack fairly well, and had moved to the research side of the organization about a year before I left. This allowed me to work alongside most teams in the organization at one point or another.
+
+# Voting
+
+The neuron I’m proposing to name is the first neuron I staked, just a few weeks after initial launch. For most proposals I follow ICP Maximalist, but this is not how I always vote. I have a strong interest in seeing the Internet Computer become more decentralized and friendly to both its stakeholders and the public interest — and this is how I intend to vote.
+
+# Disclaimer
+
+Although I plan to always vote, whether manually or by following, I do not commit to any particular platform. I will vote my conscience and hold to what I, personally, think will serve the interests of the network and its users best.
+    Motivation: Remove FR2 nodes from the network in accordance with https://forum.dfinity.org/t/the-state-and-direction-of-decentralization-nodes-on-the-internet-computer/9170/105                   # Replace a node in subnet eq6en.
+
+- Step 1 (proposal [81815](https://dashboard.internetcomputer.org/proposal/81815)): Add nodes [2lhun-vmepu-zc7ic-6lrjj-o4yda-nlmwn-m4i2i-h4oby-hwv4y-mpv7c-fae]
+- Step 2 (this proposal): Remove nodes [y7uxu-kv3fw-7fbct-yo4dg-5ldiw-htywq-oxs44-6rhvj-ehgbd-2ssun-3ae]
+
+
+Motivation: Finalize the replacements started with proposal [81815](https://dashboard.internetcomputer.org/proposal/81815)                Update subnet shefu-t3kr5-t5q3w-mqmdq-jabyv-vyvtf-cyyey-3kmo4-toyln-emubw-4qe to replica version 6de9963fdc752394475149a9659d42f01ab8b0d3
+ Update subnet 2fq7c-slacv-26cgz-vzbx2-2jrcs-5edph-i5s2j-tck77-c3rlz-iobzx-mqe to replica version 6de9963fdc752394475149a9659d42f01ab8b0d3
+  # Replace nodes in subnet tdb26.
+
+- Step 1 (proposal [81618](https://dashboard.internetcomputer.org/proposal/81618)): Add nodes [y5xp4-nnr33-qeeeg-55unp-xr7f2-mkjfv-7qwe3-zxd7k-lmqd2-mftya-7ae, mf3d3-z5tww-ii4jn-zhy4f-ah3un-wpre7-edsb4-ktrb5-h7f3f-uz7rv-bqe, x5cpi-z533f-npxjb-itgjv-xdv4y-drcqw-66xm5-dx5hx-cweaw-jj67e-nqe]
+- Step 2 (this proposal): Remove nodes [ytcq7-sobyk-3qt4m-s2v3k-u6vts-u3cfw-5fcvc-3fswc-zmigs-qyv3w-pae, msp7o-gillv-tqkfv-p7w4z-dwl7l-x734s-kp2a3-njqgr-ltvzb-2xsfw-pqe, dvg3p-fvcyy-2wb26-o3n2u-6l5uj-qp453-7ya4f-4x3ph-rvhmi-iflsi-wqe]
+
+
+Motivation: Finalize the replacements started with proposal [81618](https://dashboard.internetcomputer.org/proposal/81618)  The ICP Maximalist Network was started with a core vision of promoting growth within the IC ecosystem. Many members of the ICPMN community contribute to that vision every day. A great example is the ICP Maximalist Network neuron, which has been a successful experiment demonstrating how people who care a lot about NNS governance can have a meaningful voice without owning large bags of ICP. The liquid democracy that currently results from our neuron vote has grown, which naturally surfaces unintended politics. It has become evident that the neuron needs to dissociate from the ICP Maximalist brand. The neuron exists to advance decentralization of the internet computer through leadership in governance participation. The ICP Maximalist Network is a brand that seeks growth in the web3 internet computer ecosystem. These are very different missions and we recognize that using the same name creates confusion in the IC community. Today we are excited to announce that the ICPMN neuron is spinning off as its own organization.
+
+We propose that the ICP Maximalist Network neuron should be renamed to the **Synapse.Vote** neuron. A synapse is a site of communication between neurons in the nervous system, which seems like an appropriate metaphor. While the voting members and the general mission of the ICPMN neuron are not changing, this rebranding will establish it as a separate organization. All of the voting members of the neuron have collaborated on this transition and see it as a positive change for ICPMN and the IC as a whole.
+
+Our manifesto and voting members are listed on our website [Synapse.vote](https://www.synapse.vote/). You are invited to follow the new Synapse neuron on [Twitter](https://twitter.com/SynapseVote) and join the conversation on [Telegram](https://t.me/synapsevote).
+
+## Manifesto
+
+The Voting Members (listed below) of the Synapse neuron are committed to voting in the long term best interest of the Internet Computer. We are a balanced mix of well known IC enthusiasts, investors, developers, and DFINITY Foundation team members. We each bring our own priorities and biases to this neuron and we unapologetically vote on each proposal with our own convictions. Our diversity of thought and background is intended to provide a cross section of the IC ecosystem. Many of us routinely engage with the IC community in discussions about governance topics using a wide variety of social media platforms, but this is not a requirement to be a Voting Member. 
+
+The Synapse neuron will be configured with up to 15 Followees for the Governance topic. It is currently configured to follow DFINITY for All Topics Except Governance topic, but we reserve the right to configure Followees for individual topics in the future when we determine that there are suitable experts in the ecosystem. A core principle of this neuron is that it can be trusted to always vote on all proposals. We actively monitor our participation in all Governance proposals to ensure the neuron votes. Anyone can monitor voting patterns of our neuron and individual voting members using the CrowdGov.org website.
+
+## Voting Members
+
+All voting members listed below are currently configured as Followees for the Governance Topic for the Synapse neuron. Visit our website for more information about each individual and our social media links.
+
+### Wenzel Bartlett
+
+NeuronID: [8269903528373981952](https://dashboard.internetcomputer.org/neuron/8269903528373981952?s=100&topic=TOPIC_GOVERNANCE)
+
+### Bob Bodily
+
+Neuron ID: [12995586854978175822](https://dashboard.internetcomputer.org/neuron/12995586854978175822?s=100&topic=TOPIC_GOVERNANCE)
+
+### Brian Galler
+
+Neuron ID: [14857913794892254103](https://dashboard.internetcomputer.org/neuron/14857913794892254103?s=100&topic=TOPIC_GOVERNANCE)
+
+### Christian Müller
+
+Neuron ID:[7949437292429642200](https://dashboard.internetcomputer.org/neuron/7949437292429642200?s=100&topic=TOPIC_GOVERNANCE)
+
+### David Fisher
+
+Neuron ID: [16327204681410622208](https://dashboard.internetcomputer.org/neuron/16327204681410622208?s=100&topic=TOPIC_GOVERNANCE)
+
+### Steve Erickson
+
+Neuron ID: [1124742246653679364](https://dashboard.internetcomputer.org/neuron/1124742246653679364?s=100&topic=TOPIC_GOVERNANCE)
+
+### Kyle Langham
+
+Neuron ID: [16310791615463810241](https://dashboard.internetcomputer.org/neuron/16310791615463810241?s=100&topic=TOPIC_GOVERNANCE)
+
+### Manu Drijvers
+
+Neuron ID: [8191637969740243463](https://dashboard.internetcomputer.org/neuron/8191637969740243463?s=100&topic=TOPIC_GOVERNANCE)
+
+### The ICP Maximalist
+
+Neuron ID: [11234902717315940161](https://dashboard.internetcomputer.org/neuron/11234902717315940161?s=100&topic=TOPIC_GOVERNANCE)
+
+### Adnan - MonkeyCruise
+
+Neuron ID: [7749742271488644191](https://dashboard.internetcomputer.org/neuron/7749742271488644191?s=100&topic=TOPIC_GOVERNANCE)
+
+### Daniel Radu
+
+Neuron ID: [3946849296613344209](https://dashboard.internetcomputer.org/neuron/3946849296613344209?s=100&topic=TOPIC_GOVERNANCE)
+
+### Roman I
+
+Neuron ID: [12513174241823836019](https://dashboard.internetcomputer.org/neuron/12513174241823836019?s=100&topic=TOPIC_GOVERNANCE)
+
+## NNS Proposal Process
+
+This Register Known Neuron proposal will be submitted from neuron ID [12008772471346176261](https://dashboard.internetcomputer.org/neuron/12008772471346176261), which belongs to Wenzel Bartlett and is used for the purpose of submitting NNS proposals. The mechanism for renaming a known neuron is to submit a new Register Known Neuron governance proposal to the NNS using the new name and the same neuron ID that is currently registered. This was first demonstrated when the cycle_dao neuron was renamed to Arthur’s neuron. We will complete our name transition to Synapse.vote in two phases. The first step will be to submit a proposal to rename the “ICP Maximalist Network” neuron to the “Synapse.vote (formerly ICP Maximalist Network)” neuron. Approx 3 months later we will submit another NNS proposal to rename again to the “Synapse.vote” neuron. The intermediate step will occur so it is obvious that the new name is the same neuron as the old name. We want to give all followers time to recognize that this transition is occurring so they are not surprised when they look at their Followee list and see that the name has changed.
+  Motivation: Remove remaining FR2 nodes from the network in accordance with https://forum.dfinity.org/t/the-state-and-direction-of-decentralization-nodes-on-the-internet-computer/9170/105              Update subnet pjljw-kztyl-46ud4-ofrj6-nzkhm-3n4nt-wi3jt-ypmav-ijqkt-gjf66-uae to replica version 6de9963fdc752394475149a9659d42f01ab8b0d3
+ Update subnet qdvhd-os4o2-zzrdw-xrcv4-gljou-eztdp-bj326-e6jgr-tkhuc-ql6v2-yqe to replica version 6de9963fdc752394475149a9659d42f01ab8b0d3
+            Update subnet w4asl-4nmyj-qnr7c-6cqq4-tkwmt-o26di-iupkq-vx4kt-asbrx-jzuxh-4ae to replica version 6de9963fdc752394475149a9659d42f01ab8b0d3
+ Update subnet eq6en-6jqla-fbu5s-daskr-h6hx2-376n5-iqabl-qgrng-gfqmv-n3yjr-mqe to replica version 6de9963fdc752394475149a9659d42f01ab8b0d3
+ Update subnet snjp4-xlbw4-mnbog-ddwy6-6ckfd-2w5a2-eipqo-7l436-pxqkh-l6fuv-vae to replica version 6de9963fdc752394475149a9659d42f01ab8b0d3
+     Update subnet 4zbus-z2bmt-ilreg-xakz4-6tyre-hsqj4-slb4g-zjwqo-snjcc-iqphi-3qe to replica version 6de9963fdc752394475149a9659d42f01ab8b0d3
+ Update subnet ejbmu-grnam-gk6ol-6irwa-htwoj-7ihfl-goimw-hlnvh-abms4-47v2e-zqe to replica version 6de9963fdc752394475149a9659d42f01ab8b0d3
+ Update subnet fuqsr-in2lc-zbcjj-ydmcw-pzq7h-4xm2z-pto4i-dcyee-5z4rz-x63ji-nae to replica version 6de9963fdc752394475149a9659d42f01ab8b0d3
+                  Update subnet pae4o-o6dxf-xki7q-ezclx-znyd6-fnk6w-vkv5z-5lfwh-xym2i-otrrw-fqe to replica version 6de9963fdc752394475149a9659d42f01ab8b0d3
+ Update subnet 5kdm2-62fc6-fwnja-hutkz-ycsnm-4z33i-woh43-4cenu-ev7mi-gii6t-4ae to replica version 6de9963fdc752394475149a9659d42f01ab8b0d3
+ Update subnet csyj4-zmann-ys6ge-3kzi6-onexi-obayx-2fvak-zersm-euci4-6pslt-lae to replica version 6de9963fdc752394475149a9659d42f01ab8b0d3
+      Update subnet brlsh-zidhj-3yy3e-6vqbz-7xnih-xeq2l-as5oc-g32c4-i5pdn-2wwof-oae to replica version 6de9963fdc752394475149a9659d42f01ab8b0d3
+ Update subnet cv73p-6v7zi-u67oy-7jc3h-qspsz-g5lrj-4fn7k-xrax3-thek2-sl46v-jae to replica version 6de9963fdc752394475149a9659d42f01ab8b0d3
+ Update subnet 4ecnw-byqwz-dtgss-ua2mh-pfvs7-c3lct-gtf4e-hnu75-j7eek-iifqm-sqe to replica version 6de9963fdc752394475149a9659d42f01ab8b0d3
+ Update subnet yinp6-35cfo-wgcd2-oc4ty-2kqpf-t4dul-rfk33-fsq3r-mfmua-m2ngh-jqe to replica version 6de9963fdc752394475149a9659d42f01ab8b0d3
+      Update subnet lhg73-sax6z-2zank-6oer2-575lz-zgbxx-ptudx-5korm-fy7we-kh4hl-pqe to replica version 6de9963fdc752394475149a9659d42f01ab8b0d3
+ Update subnet opn46-zyspe-hhmyp-4zu6u-7sbrh-dok77-m7dch-im62f-vyimr-a3n2c-4ae to replica version 6de9963fdc752394475149a9659d42f01ab8b0d3
+ Update subnet lspz2-jx4pu-k3e7p-znm7j-q4yum-ork6e-6w4q6-pijwq-znehu-4jabe-kqe to replica version 6de9963fdc752394475149a9659d42f01ab8b0d3
+ Update subnet o3ow2-2ipam-6fcjo-3j5vt-fzbge-2g7my-5fz2m-p4o2t-dwlc4-gt2q7-5ae to replica version 6de9963fdc752394475149a9659d42f01ab8b0d3
+                                                                 Update subnet uzr34-akd3s-xrdag-3ql62-ocgoh-ld2ao-tamcv-54e7j-krwgb-2gm4z-oqe to replica version 6de9963fdc752394475149a9659d42f01ab8b0d3
+ Update subnet 6pbhf-qzpdk-kuqbr-pklfa-5ehhf-jfjps-zsj6q-57nrl-kzhpd-mu7hc-vae to replica version 6de9963fdc752394475149a9659d42f01ab8b0d3
+ Update subnet e66qm-3cydn-nkf4i-ml4rb-4ro6o-srm5s-x5hwq-hnprz-3meqp-s7vks-5qe to replica version 6de9963fdc752394475149a9659d42f01ab8b0d3
+  Update subnet 3hhby-wmtmw-umt4t-7ieyg-bbiig-xiylg-sblrt-voxgt-bqckd-a75bf-rqe to replica version 6de9963fdc752394475149a9659d42f01ab8b0d3
+         Update subnet w4rem-dv5e3-widiz-wbpea-kbttk-mnzfm-tzrc7-svcj3-kbxyb-zamch-hqe to replica version 6de9963fdc752394475149a9659d42f01ab8b0d3
+ Update subnet jtdsg-3h6gi-hs7o5-z2soi-43w3z-soyl3-ajnp3-ekni5-sw553-5kw67-nqe to replica version 6de9963fdc752394475149a9659d42f01ab8b0d3
+ Update subnet nl6hn-ja4yw-wvmpy-3z2jx-ymc34-pisx3-3cp5z-3oj4a-qzzny-jbsv3-4qe to replica version 6de9963fdc752394475149a9659d42f01ab8b0d3
+ Update subnet k44fs-gm4pv-afozh-rs7zw-cg32n-u7xov-xqyx3-2pw5q-eucnu-cosd4-uqe to replica version 6de9963fdc752394475149a9659d42f01ab8b0d3
+        Update subnet mpubz-g52jc-grhjo-5oze5-qcj74-sex34-omprz-ivnsm-qvvhr-rfzpv-vae to replica version 6de9963fdc752394475149a9659d42f01ab8b0d3
+ Update subnet x33ed-h457x-bsgyx-oqxqf-6pzwv-wkhzr-rm2j3-npodi-purzm-n66cg-gae to replica version 6de9963fdc752394475149a9659d42f01ab8b0d3
+ Update subnet qxesv-zoxpm-vc64m-zxguk-5sj74-35vrb-tbgwg-pcird-5gr26-62oxl-cae to replica version 6de9963fdc752394475149a9659d42f01ab8b0d3
+  Update subnet gmq5v-hbozq-uui6y-o55wc-ihop3-562wb-3qspg-nnijg-npqp5-he3cj-3ae to replica version 6de9963fdc752394475149a9659d42f01ab8b0d3
+   This is Internet Identity release [release-2022-09-23](https://github.com/dfinity/internet-identity/releases/tag/release-2022-09-23) for commit [048541c1a6d59393c81b12e6ebc090f828fe9c67](https://github.com/dfinity/internet-identity/commit/048541c1a6d59393c81b12e6ebc090f828fe9c67). It includes a clearer "copy seedphrase" page, as well as some non-user-facing code cleanup and infrastructure changes.
+The sha256 of production asset [internet_identity_production.wasm](https://github.com/dfinity/internet-identity/releases/download/release-2022-09-23/internet_identity_production.wasm) is [c90f28efd682e8fd1fe00e62980cc24b85cc8621d4da9024ca2c92a43c0a0222](https://github.com/dfinity/internet-identity/actions/runs/3111448829/jobs/5043751339#step:5:1).
+
+## What's Changed
+* Update commit of IC dependencies by @gix-bot in https://github.com/dfinity/internet-identity/pull/894
+* CSS cleanup by @meodai in https://github.com/dfinity/internet-identity/pull/895
+* Update rust editions and dependencies by @frederikrothenberger in https://github.com/dfinity/internet-identity/pull/893
+* Use lit instead of lit-html by @nmattia in https://github.com/dfinity/internet-identity/pull/898
+* Reorganize rust canister tests to be colocated with the canister code by @frederikrothenberger in https://github.com/dfinity/internet-identity/pull/892
+* Use @click in logoutButton by @nmattia in https://github.com/dfinity/internet-identity/pull/900
+* Add jest.config.ts to prettier by @nmattia in https://github.com/dfinity/internet-identity/pull/899
+* Fix CI pipeline to run rust tests again by @frederikrothenberger in https://github.com/dfinity/internet-identity/pull/903
+* Fix copy button behavior by @meodai in https://github.com/dfinity/internet-identity/pull/902
+* Move metrics encoder into its own crate by @frederikrothenberger in https://github.com/dfinity/internet-identity/pull/901
+* Introduce TemplateRef and make authenticate more robust by @nmattia in https://github.com/dfinity/internet-identity/pull/904
+* Add missing pages to showcase by @nmattia in https://github.com/dfinity/internet-identity/pull/906
+* Extract anchor input component by @nmattia in https://github.com/dfinity/internet-identity/pull/907
+
+
+**Full Changelog**: https://github.com/dfinity/internet-identity/compare/release-2022-09-15_2...release-2022-09-23
+
+## Build flavors
+
+For more information please see the [Build flavors](https://github.com/dfinity/internet-identity/tree/release-2022-09-23#build-features-and-flavors) section of the README.
+
+| Filename | sha256 (links to CI Run) |
+| --- | --- |
+|[internet_identity_production.wasm](https://github.com/dfinity/internet-identity/releases/download/release-2022-09-23/internet_identity_production.wasm)|[`c90f28efd682e8fd1fe00e62980cc24b85cc8621d4da9024ca2c92a43c0a0222`](https://github.com/dfinity/internet-identity/actions/runs/3111448829/jobs/5043751339#step:5:1)|
+|[internet_identity_dev.wasm](https://github.com/dfinity/internet-identity/releases/download/release-2022-09-23/internet_identity_dev.wasm)|[`6e5de701cca6a6bda7ca6f3599a86d7e8040912288dc468e486287d993a64dfd`](https://github.com/dfinity/internet-identity/actions/runs/3111448829/jobs/5043751597#step:5:1)|
+|[internet_identity_test.wasm](https://github.com/dfinity/internet-identity/releases/download/release-2022-09-23/internet_identity_test.wasm)|[`a5f304f0019545b62da933c189968af24ace7713d8aa7babfe2dee8d24f10d5e`](https://github.com/dfinity/internet-identity/actions/runs/3111448829/jobs/5043751457#step:5:1)|
+
+
+                                                           
