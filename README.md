@@ -24,10 +24,12 @@ The area chart shows the time series of NNS proposals with selected topics by da
 
 HTML (Percent): https://sunshineluyao.github.io/ic-gov-visualization/figs/area_percent.html
 <img src="./figs/area_percent.png" alt="drawing" width="800"/>
+
 The area chart shows the time series of NNS proposals with selected topics by date. Users can filter the time period using the time range slider. The y axis represents the percentage of each topic among the total proposals.
 
 HTML(Count): https://sunshineluyao.github.io/ic-gov-visualization/figs/area_count.html
 <img src="./figs/area_count.png" alt="drawing" width="800"/>
+
 The area chart shows the time series of NNS proposals with selected topics by date. Users can filter the time period using the time range slider. The y axis represents the count of each topic among the total proposals.
 
 ### 3. Proposer and Voter Network 
@@ -55,6 +57,7 @@ HTML: https://sunshineluyao.github.io/ic-gov-visualization/figs/Sankey.html
 <img src="./figs/Sankey.png" alt="drawing" width="800"/>
 
 https://user-images.githubusercontent.com/48966917/209564312-1586dfe4-d633-4272-8b33-40cb7ba53564.mp4
+
 The Sankey shows the voting flows from all voters to all proposers. The proposers are listed on the left side while the voters are included in the right side. The number around the nodes shows the id of proposer/voter. When hovering on the Sankey, an info window will show up to display how many times a voter votes for a proposer. 
 
 
