@@ -6,6 +6,9 @@ HTML: [https://sunshineluyao.github.io/ic-gov-visualization/figs/Terminus.html](
 
 https://user-images.githubusercontent.com/48966917/209564821-07b48f8b-a160-40d5-85d4-b1c8fc566b0c.mp4
 
+The Terminus figure shows the voting flow from the top voters to the top proposers. A particle in the animation represents one vote from a voter to a proposer. The thicker the bar is, the more votes a proposer receives and the more times a voter votes. The current figures shows only the selective voter and proposer flow under the condition that the voter on the left hand side votes more than 10 times for the proposer on the right hand side. 
+
+
 
 ### 1. The Wordcloud of Proposal Summaries
 HTML: https://sunshineluyao.github.io/ic-gov-visualization/figs/wordcloud.html
