@@ -20,12 +20,15 @@ The Wordcloud shows the keywords statistics in the proposal summary of all propo
 HTML (Fraction): https://sunshineluyao.github.io/ic-gov-visualization/figs/area_fraction.html
 <img src="./figs/area_fraction.png" alt="drawing" width="800"/>
 
+The area chart shows the time series of NNS proposals with selected topics by date. Users can filter the time period using the time range slider. The y axis represents the fraction of each topic among the total proposals.
+
 HTML (Percent): https://sunshineluyao.github.io/ic-gov-visualization/figs/area_percent.html
 <img src="./figs/area_percent.png" alt="drawing" width="800"/>
-
+The area chart shows the time series of NNS proposals with selected topics by date. Users can filter the time period using the time range slider. The y axis represents the percentage of each topic among the total proposals.
 
 HTML(Count): https://sunshineluyao.github.io/ic-gov-visualization/figs/area_count.html
 <img src="./figs/area_count.png" alt="drawing" width="800"/>
+The area chart shows the time series of NNS proposals with selected topics by date. Users can filter the time period using the time range slider. The y axis represents the count of each topic among the total proposals.
 
 ### 3. Proposer and Voter Network 
 
@@ -35,12 +38,15 @@ HTML: https://sunshineluyao.github.io/ic-gov-visualization/figs/heatmap.html
 
 https://user-images.githubusercontent.com/48966917/209565183-7a202e78-80ad-40e2-99a5-9592252f38ea.mp4
 
+The Heatmap shows the voting count from all voters to all proposers. The prooposers are listed on the y-axis and the voters are listed on the x-axis.The color of each cell demonstrate the count of votes from the voter on the x-coordinate to the proposer on the y-coordinate. When hovering on the heatmap, an info window will show up to display how man times a voter votes for a proposer.
 
 #### 3.2. SplitChord
 HTML: https://sunshineluyao.github.io/ic-gov-visualization/figs/Chord.html
 <img src="./figs/Chord.png" alt="drawing" width="800"/>
 
 https://user-images.githubusercontent.com/48966917/209564370-9767a1e8-d248-443a-ba03-9c5fd0cdaf6e.mp4
+
+The Chord shows the voting flows from all voters to all proposers. The proposers are listed on the left split of the chord while the voters are included in the right split of the chord. The number around the chord shows the id of proposer/voter. When hovering on the chord, an info window will show up to display how many times a voter votes for a proposer. 
 
 
 
@@ -49,10 +55,14 @@ HTML: https://sunshineluyao.github.io/ic-gov-visualization/figs/Sankey.html
 <img src="./figs/Sankey.png" alt="drawing" width="800"/>
 
 https://user-images.githubusercontent.com/48966917/209564312-1586dfe4-d633-4272-8b33-40cb7ba53564.mp4
+The Sankey shows the voting flows from all voters to all proposers. The proposers are listed on the left side while the voters are included in the right side. The number around the nodes shows the id of proposer/voter. When hovering on the Sankey, an info window will show up to display how many times a voter votes for a proposer. 
 
 
 ### 4. Proposal Summary Bigram Network
 HTML: https://sunshineluyao.github.io/ic-gov-visualization/figs/bigram.html
 <img src="./figs/bigram.png" alt="drawing" width="800"/>
+
+The network shows the links between keywords in all NNS proposals. Each bubble represents a keyword appereared in the NNS proposal summary. The link between nodes shows that the two nodes are correlated, in other words, they often appeared together in one proposal summary. When hoversing on the nodes, an info widow will show up to diplay the keywords of the node and the connections to other nodes of keywords. 
+
 
 
