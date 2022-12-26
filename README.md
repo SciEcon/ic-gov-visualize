@@ -18,6 +18,11 @@
 
 
 #### 3.2. SplitChord
+HTML: https://sunshineluyao.github.io/ic-gov-visualization/figs/SplitChord.html
+<img src="./figs/SplitChord.png" alt="drawing" width="800"/>
+
+
+https://user-images.githubusercontent.com/48966917/209564370-9767a1e8-d248-443a-ba03-9c5fd0cdaf6e.mp4
 
 
 
