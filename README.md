@@ -1,7 +1,7 @@
 # Network Nervous System Visualizations
 ## Blockchain Governance on the Internet Computer
 ## Visualizations
-HTML: https://sunshineluyao.github.io/ic-gov-visualization/figs/Terminus.html
+HTML: [https://sunshineluyao.github.io/ic-gov-visualization/figs/Terminus.html](https://sunshineluyao.github.io/ic-gov-visualization/figs/Terminus.html)
 
 
 https://user-images.githubusercontent.com/48966917/209564821-07b48f8b-a160-40d5-85d4-b1c8fc566b0c.mp4
